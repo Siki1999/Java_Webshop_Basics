@@ -47,7 +47,7 @@ java -jar target/Zadatak-0.0.1-SNAPSHOT.jar
 - product_id
 - quantity
 
-# POSTMAN REQUESTS
+# Postman requests
 - Get all products
 ```
 GET : localhost:8080/product
