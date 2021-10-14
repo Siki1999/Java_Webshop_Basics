@@ -16,7 +16,7 @@ docker run --name some-postgres -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpasswo
 ```
 - Open folder in Java IDE or run Zadatak.jar in CMD (from cloned folder)
 ```
-java -jar targetZadatak-0.0.1-SNAPSHOT.jar
+java -jar target/Zadatak-0.0.1-SNAPSHOT.jar
 ```
 # Darabase structure
 
