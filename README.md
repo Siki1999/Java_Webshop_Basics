@@ -78,7 +78,7 @@ PUT : localhost:8080/product/{id}
 
 Body raw JSON data:
 {  
-   "code"  : "5s8fjsik94",  
+   "code"  : "5082177594",  
    "name"  : "UPDATE",  
    "price_hrk" : "20",  
    "description"  : "UPDATEEEE",  
